@@ -8,14 +8,14 @@ To run the project in your local environment,Python must be installed on your sy
 
 1. Clone the repository to your local machine.
 2. Run `pip install tkinter` in the project directory to install the Tkinter library, which is usually included with Python installations.
-3. Run `py clock_gui.py` or click on run `▶️` button to get the project started.
+3. Run `py clock_gui.py` in the terminal or click on run `▶️` button to get the project started.
 
 ## 🦄 Features
 
 - 👀 Real-time display of current time in hours, minutes, seconds, and AM/PM format.
 - 🔄 Dynamic updates every second for accurate timekeeping.
 - 🌓 Shows the current day of the week and date.
-- 😊Stylish modern design with a black background and vibrant text colors.
+- 😊 Stylish modern design with a black background and vibrant text colors.
 - 😂 Resizable window.
 
 
