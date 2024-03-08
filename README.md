@@ -45,4 +45,4 @@ So far, I'm not really sure if there are any bugs. However, there might be some 
 ## 👇 Try it out!
 
 
-[Click here!](https://github.com/malik-l0l/Clock_GUI_Tkinter/assets/clock.exe)
+[Click here!](https://github.com/malik-l0l/Clock_GUI_Tkinter/raw/main/assets/clock.exe)
